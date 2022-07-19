@@ -2,6 +2,7 @@ def return_short_list(list_a):
     return [list_a[0], list_a[-1]]
 
 
-list_a = [1, 2, 3, 4, 5, 12, 234, 15, 78]
-print(return_short_list(list_a))
+list_a = [4, 2, 3, 4, 5, 54, 234, 15, 99]
+print(f'the new list is {return_short_list(list_a)}')
+
 
