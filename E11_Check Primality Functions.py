@@ -19,3 +19,4 @@ if calculate_prime(selected_number):
 else:
     print(f'{selected_number} is not a prime number')
 print('this is a new screen')
+print('new button')
